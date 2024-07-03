@@ -54,6 +54,14 @@ Hi there! I'm MD. Emam Mahadi is a passionate web developer from Bangladesh. I h
 
 ---
 
+## 💼 Projects
+
+- [Bus Ticket](https://github.com/mahadiduet/bus-ticket)
+- [Hockyes](https://github.com/mahadiduet/hockyes)
+- [Travel Trust](https://github.com/mahadiduet/travel-trust)
+
+---
+
 ## ✨ Fun Fact
 
 I was programming content when I was a student!
